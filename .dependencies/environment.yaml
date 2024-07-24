@@ -1,0 +1,12 @@
+name: l2dVE
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - pip
+  - pip:
+    - numpy
+    - matplotlib
+    - notebook
+    - jupyter
+    - ipykernel # required for jupyter notebook in VS Code
