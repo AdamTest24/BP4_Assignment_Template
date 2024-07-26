@@ -14,6 +14,7 @@ Please find linked below everything you will require for this lesson topic. A [v
 **Online learning materials** (including embedded tutorial videos) can be found here:
 
 - [Dictionaries](https://CORRECT_LINK_HERE_<<<<<<<<<<)
+
 - [Functions](https://CORRECT_LINK_HERE_<<<<<<<<<<)
 
 ## :writing_hand: Assignment Submission:
