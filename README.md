@@ -13,9 +13,9 @@ Please find linked below everything you will require for this lesson topic. A [v
 
 **Online learning materials** (including embedded tutorial videos) can be found here:
 
-- [Dictionaries](https://CORRECT_LINK_HERE_<<<<<<<<<<)
+- [Dictionaries](https://l2d-july2024-part-i.github.io/Basic_Python/06-dictionaries.html)
 
-- [Functions](https://CORRECT_LINK_HERE_<<<<<<<<<<)
+- [Functions](https://l2d-july2024-part-i.github.io/Basic_Python/07-functions.html)
 
 ## :writing_hand: Assignment Submission:
 
