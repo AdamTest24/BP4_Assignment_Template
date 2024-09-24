@@ -5,7 +5,7 @@ Please take a moment to study our [L2D Handbook](https://learntodiscover.github.
 
 ## :calendar: Course Calendar: 
 
-Key course dates are given in the [Course Calendar, linked here](https://learntodiscover.github.io/L2D-Handbook/fig/L2D_Calendar_July_24.pdf).
+Key course dates are given in the [Course Calendar, linked here](TO BE LINKED).
 
 ## :mortar_board: Lesson Resources: 
 
@@ -13,9 +13,9 @@ Please find linked below everything you will require for this lesson topic. A [v
 
 **Online learning materials** (including embedded tutorial videos) can be found here:
 
-- [Dictionaries](https://l2d-july2024-part-i.github.io/Basic_Python/06-dictionaries.html)
+- [Dictionaries](TO BE LINKED)
 
-- [Functions](https://l2d-july2024-part-i.github.io/Basic_Python/07-functions.html)
+- [Functions](TO BE LINKED)
 
 ## :writing_hand: Assignment Submission:
 
@@ -25,7 +25,7 @@ Details of how to submit an assignment are given in the [L2D Handbook.](https:
  
 ## :satellite: Live Lecture and Drop-In Session:
 
-The live lecture for this lesson will take place on **Thursday 29th of August at 14:00 BST, on Zoom**. The Jupyter Notebook file used during this lecture can be accessed from the folder [Lecture_Resources](./Lecture_Resources) in this GitHub Repository. 
+The live lecture for this lesson will take place on **Thursday LECTURE DATE at 14:00 BST, on Zoom**. The Jupyter Notebook file used during this lecture can be accessed from the folder [Lecture_Resources](./Lecture_Resources) in this GitHub Repository. 
 
 We look forward to seeing you there. Please note the meeting details, below:
 
@@ -33,11 +33,11 @@ We look forward to seeing you there. Please note the meeting details, below:
 
 Meeting ID: **935 2253 2680**
 
-Date:          **August 29th 2024**
+Date:          **LECTURE DATE**
 
 Time:          **14-15:00 BST**
 
-Note: A recording of this lesson's Live Lecture (Basic Python 4 - Dictionaries and Functions) will be posted on the [Discussion Forum](https://github.com/orgs/L2D-July2024-Part-I/discussions), shortly after it has been streamed. 
+Note: A recording of this lesson's Live Lecture (Basic Python 4 - Dictionaries and Functions) will be posted on the [Discussion Forum](TO BE LINKED), shortly after it has been streamed. 
 
 For future reference, [this playlist](https://www.youtube.com/playlist?list=PLTRx90_S
 
@@ -48,7 +48,7 @@ For future reference, [this playlist](https://www.youtube.com/playlist?list=PLTR
  
 ## :speech_balloon: Forum:
 
-- Any questions or queries related to the L2D course, can be posted on our [Discussion Forum](https://github.com/orgs/L2D-July2024-Part-I/discussions). This is a facility that allows you to engage with both L2D tutors and fellow coursemates, and we encourage you to make the most of this resource throughout your time studying with L2D.
+- Any questions or queries related to the L2D course, can be posted on our [Discussion Forum](TO BE LINKED). This is a facility that allows you to engage with both L2D tutors and fellow coursemates, and we encourage you to make the most of this resource throughout your time studying with L2D.
 - Here’s a [brief video tutorial on how to submit a forum post](https://www.youtube.com/watch?app=desktop&v=N5N7QbLwztQ).
  
 ## :pencil: Feedback:
